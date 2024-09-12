@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Max Mustermann",
+        "email": "max@example.com",
+        "feedback": "Dies ist ein Test-Feedback."
+    },
+    {
+        "name": "Anonym",
+        "email": "Keine E-Mail",
+        "feedback": "hi"
+    },
+    {
+        "name": "Anonym",
+        "email": "Keine E-Mail",
+        "feedback": "hi"
+    },
+    {
+        "name": "Anonym",
+        "email": "Keine E-Mail",
+        "feedback": "hi"
+    },
+    {
+        "name": "Anonym",
+        "email": "Keine E-Mail",
+        "feedback": "hi"
+    },
+    {
+        "name": "Anonym",
+        "email": "Keine E-Mail",
+        "feedback": "hi"
+    },
+    {
+        "name": "Anonym",
+        "email": "Keine E-Mail",
+        "feedback": "hi"
+    },
+    {
+        "name": "Anonym",
+        "email": "Keine E-Mail",
+        "feedback": "hi"
+    },
+    {
+        "name": "Anonym",
+        "email": "Keine E-Mail",
+        "feedback": "hi"
+    }
+]
